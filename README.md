@@ -43,3 +43,7 @@ Si otras máquinas no conectan, abre el puerto en el firewall (ej. `sudo ufw all
 from httpchat import serve
 serve(host="0.0.0.0", port=8082)
 ```
+
+## Licencia
+
+[MIT](LICENSE) © 2026 rippsec
